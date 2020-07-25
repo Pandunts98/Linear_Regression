@@ -1,0 +1,11 @@
+address,description,price,building_total_floors,num_bathrooms,lat,num_rooms,area,condition,floor,lng,price_sqm,building_type,ceiling_height
+"Yerevan, Malatia-Sebastia, Z.Andranik St district","3 bedrooms apartment for sale in new construction in Davtashen 4 district, Davtashen, Yerevan, 90228","102,000",14,1,40.16741490,3,89 sq. m.,newly repaired,3,44.44515160,"1,200",panel,3 m
+"Yerevan, Arabkir, Gulakyan St","4 bedrooms apartment for sale in Gulakyan St, Arabkir, Yerevan, 91068","80,000",5,1,40.19811250,4,105 sq. m.,good,2,44.50475950,762,stone,2.8 m
+"Yerevan, Center, Mashtots Ave","2 bedrooms apartment for sale in Mashtots Ave, Center, Yerevan, 92884","89,000",5,1,40.19022140,2,40 sq. m.,newly repaired,2,44.51832900,"2,225",stone,2.6 m
+"Yerevan, Arabkir, Aghbyur Serob St","3 bedrooms apartment for sale in Aghbyur Serob St, Arabkir, Yerevan, 89825","133,000",5,1,40.18515899,3,92 sq. m.,newly repaired,5,44.49479286,"1,446",stone,2.8 m
+"Yerevan, Center, Zakyan dead end","5 bedrooms apartment for sale in Zakyan dead end, Center, Yerevan, 90146","125,000",5,1,40.17868390,5,100 sq. m.,zero condition,3,44.50962520,"1,250",stone,2.8 m
+"Yerevan, Arabkir, Sundukyan St","3 bedrooms apartment for sale in Sundukyan St, Arabkir, Yerevan, 89562","87,000",12,1,40.19740960,3,75 sq. m.,newly repaired,10,44.49457260,"1,160",panel,2.8 m
+"Yerevan, Center, Vardanants St","4 bedrooms apartment for sale in Vardanants St, Center, Yerevan, 89510","160,000",11,1,40.17264170,4,117 sq. m.,newly repaired,10,44.52126750,"1,368",monolit,2.8 m
+"Yerevan, Center, Nalbandyan St","3 bedrooms apartment for sale in Nalbandyan St, Center, Yerevan, 91120","167,000",5,1,40.18017970,3,100 sq. m.,good,5,44.51825040,"1,670",stone,2.8 m
+"Yerevan, Center, D. Demirchyan St","3 bedrooms apartment for sale in D. Demirchyan St, Center, Yerevan, 89313","170,000",5,1,40.18774640,3,95 sq. m.,newly repaired,5,44.50774400,"1,789",stone,3 m
+"Yerevan, Arabkir, Keri St","2 bedrooms apartment for sale in new construction in Keri St, Arabkir, Yerevan, 89350","85,000",18,1,40.19964770,2,62 sq. m.,newly repaired,11,44.48667820,"1,371",monolit,3 m
